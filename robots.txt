@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://amarresefectivos65com.github.io/site/sitemap.xml

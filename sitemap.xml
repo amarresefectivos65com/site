@@ -7,33 +7,21 @@
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://amarresefectivos65com.github.io/site/#servicios</loc>
-    <lastmod>2026-07-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://amarresefectivos65com.github.io/site/#beneficios</loc>
+    <loc>https://amarresefectivos65com.github.io/site/privacidad.html</loc>
     <lastmod>2026-07-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://amarresefectivos65com.github.io/site/#proceso</loc>
+    <loc>https://amarresefectivos65com.github.io/site/terminos.html</loc>
     <lastmod>2026-07-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://amarresefectivos65com.github.io/site/#testimonios</loc>
+    <loc>https://amarresefectivos65com.github.io/site/gracias.html</loc>
     <lastmod>2026-07-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://amarresefectivos65com.github.io/site/#faq</loc>
-    <lastmod>2026-07-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <changefreq>yearly</changefreq>
+    <priority>0.4</priority>
   </url>
 </urlset>
